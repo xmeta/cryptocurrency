@@ -1,0 +1,8 @@
+[package]
+name = "cryptocurrency"
+version = "0.1.0"
+authors = ["xmeta <xmeta@users.noreply.github.com>"]
+
+[lib]
+name = "cryptocurrency"
+path = "lib.rs"
